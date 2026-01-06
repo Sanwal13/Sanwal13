@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Shanwal Singh, a Mobile Tech Lead / Project Lead with 12+ years of experience <br>building high-quality mobile applications. I specialize in Flutter, Android, iOS, and <br>React Native, with a strong focus on scalable architecture, clean code, and <br>performance optimization.<br><br>I’ve delivered 50+ production-ready apps across Play Store and App Store, <br>led cross-functional teams, and collaborated with global clients to turn <br>complex ideas into reliable, user-friendly products. Passionate about modern mobile<br> tech, mentoring developers, and building impactful digital solutions.
+I’m Shanwal Singh, a Mobile Tech Lead / Project Lead with 12+ years of experience building high-quality mobile applications. I specialize in Flutter, Android, iOS, and React Native, with a strong focus on scalable architecture, clean code, and performance optimization.<br><br>I’ve delivered 50+ production-ready apps across Play Store and App Store, led cross-functional teams, and collaborated with global clients to turn complex ideas into reliable, user-friendly products. Passionate about modern mobile tech, mentoring developers, and building impactful digital solutions.
 
 
 ## 🌐 Socials:
